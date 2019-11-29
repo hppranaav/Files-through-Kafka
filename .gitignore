@@ -1,0 +1,6 @@
+# all fles in target
+target/
+
+# all .class files
+*.class
+
